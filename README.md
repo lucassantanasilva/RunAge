@@ -13,6 +13,7 @@ O repositório consiste da seguinte estrutura:
  - Clicar em "Clone or download"
  - Download Zip
  - Extrair os arquivos
- - Abrir o notebook e rodar o código
+ - Abrir o notebook na pasta "notebooks"
+ - Rodar o código
  
  O notebook lê todos os arquivos texto de forma automática, não sendo necessário realizar nenhuma alteração quanto ao diretório.
