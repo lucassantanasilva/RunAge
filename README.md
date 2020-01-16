@@ -6,6 +6,7 @@ O notebook tem como objetvo...
 
 O repositório consiste da seguinte estrutura:
  - data: contém todos os arquivos em formato texto necessários para rodar o código
+ - functions: contém todas as funções necessárias para rodar o código principal
  - notebooks: contém o notebook utilizado para reazlizar os cálculos
 
  
