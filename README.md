@@ -1,5 +1,5 @@
 # Aluno: Lucas Santana da Silva
-# Projeto: EFEITO DA VELOCIDADE E DO ENVELHECIMENTO NA POTÊNCIA MECÂNICA DO COMPLEXO PÉ E TORNOZELO DURANTE O ANDAR
+# Projeto: EFEITO DA VELOCIDADE E DO ENVELHECIMENTO NA POTÊNCIA MECÂNICA DO COMPLEXO TORNOZELO E PÉ DURANTE O ANDAR
 
 Este repositório contém os arquivos e notebook necessários para gerar os resultados apresentados na dissertação.
 O notebook tem como objetvo...
