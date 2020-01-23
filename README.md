@@ -1,5 +1,5 @@
 # Aluno: Lucas Santana da Silva
-# Projeto: COMPARAÇÃO DAS POTÊNCIAS MECÂNICAS DO TORNOZELO E PÉ DURANTE O ANDAR DE ADULTOS JOVENS E IDOSOS
+# Projeto: EFEITO DA VELOCIDADE E DO ENVELHECIMENTO NA POTÊNCIA MECÂNICA DO COMPLEXO PÉ E TORNOZELO DURANTE O ANDAR
 
 Este repositório contém os arquivos e notebook necessários para gerar os resultados apresentados na dissertação.
 O notebook tem como objetvo...
