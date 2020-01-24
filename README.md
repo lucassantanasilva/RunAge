@@ -2,7 +2,7 @@
 # Projeto: EFEITO DA VELOCIDADE E DO ENVELHECIMENTO NA POTÊNCIA MECÂNICA DO COMPLEXO TORNOZELO E PÉ DURANTE O ANDAR
 
 Este repositório contém os arquivos e notebook necessários para gerar os resultados apresentados na dissertação.
-O notebook tem como objetvo...
+O notebook tem como objetvo comparar as potências mecânicas do tornozelo e pé, por meio de uma abordagem mais completa em adultos jovens e idosos durante o andar no solo em diferentes velocidades
 
 O repositório consiste da seguinte estrutura:
  - data: contém todos os arquivos em formato texto necessários para rodar o código
