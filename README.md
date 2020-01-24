@@ -17,4 +17,4 @@ O repositório consiste da seguinte estrutura:
  - Abrir o notebook na pasta "notebooks"
  - Rodar o código
  
- O notebook lê todos os arquivos texto de forma automática, não sendo necessário realizar nenhuma alteração quanto ao diretório.
+ O notebook lê todos os arquivos texto de forma automática, não sendo necessário realizar nenhuma alteração quanto ao diretório. Caso o usuário deseje, é possível inserir valores diferentes para a massa total do sujeito e para a massa do pé no início do notebook.
